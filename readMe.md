@@ -38,8 +38,8 @@ Database contains two tables *registrations* and *vaccinations*.
 
 
 
-![Screenshot1](screen1.png)
-![Screenshot2](screen2.png)
-![Screenshot3](screen3.png)
-![Screenshot4](screen4.png)
+![Screenshot1](screen1.PNG)
+![Screenshot2](screen2.PNG)
+![Screenshot3](screen3.PNG)
+![Screenshot4](screen4.PNG)
 
