@@ -28,7 +28,7 @@ Database contains two tables *registrations* and *vaccinations*.
 
 ## API endpoints
 
-* 'RegistrationsController.GetRegistrationById'	.../api/registartions/getRegistrationById	
+* `RegistrationsController.GetRegistrationById`	.../api/registartions/getRegistrationById	
 * `RegistrationsController.GetTimeslots`	.../api/registrations/getTimeslots
 * `VaccinationsController.StoreVaccination`	  .../api/vaccinations/storeVaccination
 
@@ -38,8 +38,8 @@ Database contains two tables *registrations* and *vaccinations*.
 
 
 
-(screen1.png)
-(screen2.png)
-(screen3.png)
-(screen4.png)
+![Screenshot1](screen1.png)
+![Screenshot2](screen2.png)
+![Screenshot3](screen3.png)
+![Screenshot4](screen4.png)
 
